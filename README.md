@@ -2,4 +2,4 @@
 gitignore files for other projects
 
 
-git pull --single-branch <remote> <branch> -- <file path>
+git pull --single-branch remote branch -- file path
